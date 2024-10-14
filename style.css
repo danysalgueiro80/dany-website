@@ -329,7 +329,7 @@ section{
 }
 
 #linkedin-icon-id:hover{
-    content: url('./assets/linkedin-alt-yellow.svg'); /* Troca a imagem ao passar o rato */
+    content: url('/assets/linkedin-alt-yellow.svg'); /* Troca a imagem ao passar o rato */
     display: block;
     width: 40px; /* Ajusta o tamanho conforme necessário */
     height: 40px;
@@ -348,7 +348,7 @@ section{
 }
 
 #mail-icon-id:hover{
-    content: url('./assets/envelope-alt-yellow.svg'); /* Troca a imagem ao passar o rato */
+    content: url('/assets/envelope-alt-yellow.svg'); /* Troca a imagem ao passar o rato */
     display: block;
     width: 40px; /* Ajusta o tamanho conforme necessário */
     height: 50px;
